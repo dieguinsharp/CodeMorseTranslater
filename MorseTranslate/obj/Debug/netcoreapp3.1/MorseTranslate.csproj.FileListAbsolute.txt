@@ -1,0 +1,14 @@
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.exe
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.deps.json
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.runtimeconfig.json
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.runtimeconfig.dev.json
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.dll
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\bin\Debug\netcoreapp3.1\MorseTranslate.pdb
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.csproj.AssemblyReference.cache
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.AssemblyInfoInputs.cache
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.AssemblyInfo.cs
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.csproj.CoreCompileInputs.cache
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.dll
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.pdb
+C:\Users\poadie09\Desktop\Morse\MorseTranslate\MorseTranslate\obj\Debug\netcoreapp3.1\MorseTranslate.genruntimeconfig.cache
